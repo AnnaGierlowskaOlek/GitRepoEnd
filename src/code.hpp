@@ -3,4 +3,5 @@
 
 using namespace std;
 
+// wysołanie funkcji
 int code(string);
